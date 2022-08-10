@@ -11,7 +11,7 @@ I'm a Software Engineer & Content Writer who currently works as a Freelancer at 
 - 🌱 I’m currently learning HTML, CSS, JavaScript & Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mataoseeker@gmail.com.
+- 📫 You can [view my resume](https://cvdesignr.com/p/62f2552f997b2) and contact me by emailing mataoseeker@gmail.com.
 
 ---
 
