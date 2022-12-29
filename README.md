@@ -8,7 +8,7 @@ I'm a Software Engineer & Content Writer who currently works as a Freelancer at 
 
 - 😊 Pronouns: She/Her
 - 💡 Fun fact: I'm currently studying Front End Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning HTML, CSS, JavaScript & Reactjs.
+- 🌱 I’m currently learning HTML, CSS, Tailwindcss, JavaScript, Vuejs & Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://cvdesignr.com/p/63777bedb5509) and contact me by emailing mataoseeker@gmail.com.
