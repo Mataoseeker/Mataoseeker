@@ -7,8 +7,8 @@ I'm a Front End Developer that is passionate about sharing knowledge, building b
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her
-- 💡 Fun fact: I'm currently studying Front End Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning HTML, CSS, Tailwindcss, JavaScript, Vuejs & Reactjs.
+- 💡 Fun fact: I studied Front End Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🌱 I learnt HTML, CSS, Tailwindcss, JavaScript, Vuejs & Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://docs.google.com/document/d/1pIDS9jE4I2VzngqsLBNmxwHLxVzy2_ekZbHfiOtKs7s/edit?usp=sharing) and contact me by emailing mataoseeker@gmail.com.
